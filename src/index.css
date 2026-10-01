@@ -1590,35 +1590,48 @@ section.hero {
    FOOTER — BOTTOM
    ===================================================== */
 
-.footer-bottom {
-  display: flex;
+/* =====================================================
+   FOOTER — BOTTOM
+   ===================================================== */
 
-  justify-content: space-between;
-  align-items: center;
-
-  gap: 32px;
-
-  padding-top: 24px;
-}
-
-.footer-bottom p {
-  color: rgba(248, 244, 233, 0.42);
-
-  font-size: 0.75rem;
-}
-
-.footer-bottom a {
-  color: rgba(248, 244, 233, 0.58);
-
-  font-size: 0.75rem;
-  font-weight: 600;
-
-  transition: color var(--transition-fast);
-}
-
-.footer-bottom a:hover {
-  color: var(--color-highlight);
-}
+   .footer-bottom {
+    display: flex;
+  
+    /* Automatically flushes copyright left, email center, and link right */
+    justify-content: space-between; 
+    align-items: center;
+  
+    gap: 32px;
+  
+    padding-top: 24px;
+  }
+  
+  .footer-bottom p {
+    color: rgba(248, 244, 233, 0.42);
+  
+    font-size: 0.75rem;
+  }
+  
+  .footer-bottom a {
+    color: rgba(248, 244, 233, 0.58);
+  
+    font-size: 0.75rem;
+    font-weight: 600;
+  
+    transition: color var(--transition-fast);
+  }
+  
+  /* Custom styling for your centered email link */
+  .footer-bottom .footer-bottom-email {
+    color: rgba(248, 244, 233, 0.58);
+    font-weight: 600;
+    letter-spacing: 0.03em;
+  }
+  
+  .footer-bottom a:hover {
+    color: var(--color-highlight);
+  }
+  
 
 
 /* =====================================================
@@ -1665,9 +1678,12 @@ section.hero {
   .footer-bottom {
     flex-direction: column;
 
-    align-items: flex-start;
+    /* Centers all 3 stacked elements on small phone viewports */
+    align-items: center; 
 
-    gap: 16px;
+    text-align: center;
+
+    gap: 14px;
   }
 
 }

@@ -120,6 +120,11 @@ function Footer() {
             © {new Date().getFullYear()} Mũgumo. All rights reserved.
           </p>
 
+           {/* ADDED EMAIL FOR CENTER ALIGNMENT */}
+           <a href="mailto:hello@mugumo.co.ke" className="footer-bottom-email">
+  For Inquiries &mdash; hello@mugumo.co.ke
+</a>
+
           <a href="#top">
             Back to top ↑
           </a>

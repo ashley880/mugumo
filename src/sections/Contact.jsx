@@ -27,10 +27,10 @@ function Contact() {
           <div className="contact-action">
 
             <a
-              href="mailto:support@mugumo.co.ke"
+              href="mailto:hello@mugumo.co.ke"
               className="contact-email"
             >
-              support@mugumo.co.ke
+              hello@mugumo.co.ke
               <span>↗</span>
             </a>
 
