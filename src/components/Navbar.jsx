@@ -51,6 +51,10 @@ function Navbar() {
               Services
             </a>
 
+            <a href="#pricing" onClick={closeMenu}>
+              Website Packages
+            </a>
+
             <a href="#work" onClick={closeMenu}>
               Work
             </a>
