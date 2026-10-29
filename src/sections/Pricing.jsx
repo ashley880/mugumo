@@ -134,13 +134,11 @@ function Pricing() {
               </div>
 
               <a
-                href={`mailto:hello@mugumo.co.ke?subject=${encodeURIComponent(
-                  item.subject
-                )}`}
+                href="#contact"
                 className={`btn ${
                   item.featured ? 'btn-primary' : 'btn-secondary'
                 } pricing-cta`}
-              >
+                >
                 {item.cta}
                 <span aria-hidden="true">↗</span>
               </a>
