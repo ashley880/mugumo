@@ -125,7 +125,7 @@ function Footer() {
 
            {/* ADDED EMAIL FOR CENTER ALIGNMENT */}
            <a href="mailto:hello@mugumo.co.ke" className="footer-bottom-email">
-  For Inquiries &mdash; hello@mugumo.co.ke
+           Have a project in mind? &mdash; hello@mugumo.co.ke
 </a>
 
           <a href="#top">
