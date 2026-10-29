@@ -18,19 +18,21 @@ function About() {
 
           <div className="about-intro">
             <p className="text-large">
-            Mũgumo is a specialized web development practice dedicated to engineering clear, purposeful digital experiences that are built to last.
+            Mũgumo is an independent web design and
+             development practice dedicated to creating distinctive digital experiences that balance thoughtful design with purposeful functionality.
             </p>
           </div>
 
           <div className="about-details">
             <p>
-            We believe a high-performing digital presence must look exceptional, communicate flawlessly, and operate effortlessly.
-             A website shouldn't just exist online—it should serve as a rock-solid foundation for a business to scale.
+            We believe a great website should do more than look exceptional. 
+            It should communicate clearly, connect businesses with their audiences, and make everyday interactions effortless.
             </p>
 
             <p>
-            Our practice fuses intentional digital design with precise, clean development.
-             By focusing heavily on technical architecture and meticulous detail, we ensure every digital asset we deploy feels deeply considered and strategically sound.
+            From professional business websites to custom web applications,
+             every project is approached with an emphasis on usability, performance, and clean,
+             maintainable code—creating digital solutions designed to evolve alongside the businesses they serve.
             </p>
           </div>
 

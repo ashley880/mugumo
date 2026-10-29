@@ -14,8 +14,7 @@ function Footer() {
             </a>
 
             <p>
-              A specialized web development practice building
-              clear, purposeful digital experiences.
+            Thoughtfully designed websites and purpose-built web applications that bring ideas to life and help businesses grow.
             </p>
 
           </div>
@@ -43,7 +42,7 @@ function Footer() {
           <div className="footer-column">
 
             <h3>
-              Navigation
+            Explore
             </h3>
 
             <nav className="footer-links">
@@ -58,6 +57,10 @@ function Footer() {
 
               <a href="#work">
                 Work
+              </a>
+
+              <a href="#pricing">
+              Website Packages
               </a>
 
               <a href="#process">

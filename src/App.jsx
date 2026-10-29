@@ -7,6 +7,7 @@ import Work from './sections/Work'
 import Process from './sections/Process'
 import Contact from './sections/Contact'
 import Footer from './sections/Footer'
+import Pricing from './sections/Pricing'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Hero />
         <About />
         <Services />
+        <Pricing />
         <Work />
         <Process />
         <Contact />

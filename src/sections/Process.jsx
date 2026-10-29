@@ -18,8 +18,8 @@ function Process() {
           </div>
 
           <p className="process-intro">
-          A highly structured methodology ensures every phase of execution remains focused, intentional,
-           and strictly aligned with the overarching strategic goals of the product.
+          Every great digital experience begins with a clear understanding of the problem it needs to solve. 
+          Our approach combines thoughtful planning, collaborative development, and careful execution to bring your ideas to life with clarity and purpose.
           </p>
 
         </div>
@@ -38,8 +38,8 @@ function Process() {
             </h3>
 
             <p>
-            We begin with an intensive deep-dive to analyze your business model, target demographics,
-             and core objectives, establishing a clear roadmap for what the platform must achieve.
+            We begin by understanding your business, your goals, and what you want to achieve. 
+            Through an initial consultation, we explore your requirements, identify opportunities, and establish a clear direction for the project.
             </p>
 
           </article>
@@ -52,12 +52,12 @@ function Process() {
             </p>
 
             <h3>
-            Architecture & Planning
+            Design & Planning
             </h3>
 
             <p>
-            Before a single line of code is written, we define the information architecture, 
-            content strategy, user flows, and technical framework to ensure a frictionless production phase.
+            With a clear vision in place, we map out the structure, functionality, and visual direction of your project. 
+            From page layouts and user journeys to technical requirements, every detail is considered before development begins.
             </p>
 
           </article>
@@ -70,13 +70,12 @@ function Process() {
             </p>
 
             <h3>
-            Engineering & Development
+            Development & Refinement
             </h3>
 
             <p>
-            The platform is systematically built using modern engineering standards,
-             with an uncompromising focus on cross-device responsiveness, speed optimization, 
-             and clean, scalable code.
+            Your project takes shape through clean, maintainable code and thoughtful design implementation. 
+            Throughout development, we review progress, incorporate agreed feedback, and refine the experience to ensure it aligns with your goals.
             </p>
 
           </article>
@@ -89,17 +88,30 @@ function Process() {
             </p>
 
             <h3>
-            Quality Assurance & Launch
+            Testing & Launch
             </h3>
 
             <p>
-            Every module undergoes rigorous cross-browser testing and performance tuning,
-             culminating in a polished, secure deployment optimized for a flawless market launch.
+            Before launch, we carefully test functionality, responsiveness, and performance to ensure everything works as intended.
+             Once ready, we deploy your project and provide the guidance needed for a smooth transition.
             </p>
 
           </article>
 
         </div>
+
+        <div className="process-footer">
+  <p className="process-outro">
+    Every project is unique. Our process is adapted to its scope,
+    complexity, and requirements, ensuring a thoughtful approach
+    without unnecessary complications.
+  </p>
+
+  <a href="#contact" className="btn btn-secondary process-cta">
+    Let's Start Your Project
+    <span aria-hidden="true">↗</span>
+  </a>
+</div>
 
       </div>
 

@@ -19,9 +19,9 @@ function Hero() {
             </h1>
 
             <p className="hero-description">
-            Mũgumo designs and engineers high-performance web ecosystems that provide business concepts with 
-            a permanent digital foundation. By fusing standard-compliant code with intuitive user experiences, 
-            the practice deploys resilient online platforms designed to grow alongside enterprise operations.
+            Mũgumo designs and develops distinctive, responsive websites and 
+            powerful custom web applications that help businesses build their online presence, 
+            streamline operations, and grow with confidence.
             </p>
 
             <div className="hero-actions">
@@ -30,7 +30,7 @@ function Hero() {
               </a>
 
               <a href="#contact" className="btn btn-secondary">
-                Let's talk
+              Start a project
               </a>
             </div>
 

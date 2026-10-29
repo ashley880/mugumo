@@ -24,10 +24,8 @@ function Work() {
           </div>
 
           <p className="work-intro">
-          A curated portfolio of digital systems, platforms, 
-          and products designed and developed 
-          with meticulous attention to both user interface
-           and architectural integrity.
+          Explore a selection of websites and web applications that bring thoughtful design and purposeful functionality together.
+           Each project reflects our commitment to creating digital experiences that are intuitive, reliable, and built around real-world needs.
           </p>
 
         </div>
@@ -75,16 +73,14 @@ function Work() {
               </h3>
 
               <p className="project-description">
-              An all-in-one business management and automated invoicing ecosystem
-               engineered to centralize payments, 
-              inventory tracking, and daily operations 
-              into a unified, high-performance workspace.
+              A comprehensive business management application designed to simplify everyday operations. 
+              Direct Invoice brings invoicing, quotations, inventory tracking, client management, and financial reporting into one organized workspace, helping businesses manage their workflows with greater clarity and efficiency.
               </p>
 
               <div className="project-tags">
-                <span>Web Application</span>
-                <span>Business Operations </span>
-                <span>Operational Efficiency</span>
+                <span>Full-Stack Application</span>
+                <span>Business Management </span>
+                <span> Invoicing & Inventory</span>
               </div>
 
               <a
@@ -130,19 +126,23 @@ function Work() {
     </h3>
 
     <p className="project-description">
-    A highly optimized SaaS document architecture engineered 
-    to simplify high-volume professional 
-    invoicing and seamless PDF/document compilation.
+    A streamlined, subscription-based business document management platform designed to simplify everyday financial workflows. 
+    Clearform enables businesses to create and manage professional invoices, quotations, proforma invoices, purchase orders, credit notes, and delivery notes—all within an intuitive workspace.
+    </p>
+
+    <p className="project-description">
+      Complementary bookkeeping features, including expense tracking,
+       cashbook management, and financial reports, provide a clearer view of business income and activity.
     </p>
 
     <div className="project-tags">
-      <span>SaaS Platform</span>
-      <span>Product Infrastructure</span>
-      <span>User-Centric Architecture</span>
+      <span>SaaS Development</span>
+      <span>Business Document Management</span>
+      <span>Financial Tracking</span>
     </div>
 
     <span className="project-status">
-      Coming soon
+    Currently in development.
     </span>
 
   </div>
@@ -181,15 +181,14 @@ function Work() {
               </h3>
 
               <p className="project-description">
-              A pristine, high-conversion corporate web platform designed to 
-              broadcast consulting services with 
-              authority and establish a commanding digital presence.
+              A professional corporate website designed to establish a clear and credible digital presence for Rosaflat Consultancy and Technologies.
+               With a responsive layout, structured service information, and intuitive navigation, the platform makes it easier for visitors to explore the company's offerings and get in touch.
               </p>
 
               <div className="project-tags">
-                <span>Corporate Platform</span>
-                <span>Brand Ecosystem</span>
-                <span>Conversion Optimization</span>
+                <span>Corporate Website</span>
+                <span>Responsive Design</span>
+                <span>Web Development</span>
               </div>
 
               <a
